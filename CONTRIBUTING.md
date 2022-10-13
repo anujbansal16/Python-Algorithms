@@ -1,0 +1,3 @@
+- Mention the issue in the generated PR.
+- Make sure the code is properly indented and ran without any error
+- Add a meaningful title and description in the PR
